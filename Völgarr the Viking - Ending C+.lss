@@ -214,24 +214,6 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>6-13</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>6-14</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
       <Name>Fafnir</Name>
       <Icon />
       <SplitTimes>
